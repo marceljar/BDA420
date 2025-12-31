@@ -1,0 +1,11 @@
+order_id,customer,category,amount,country
+1,Alice,Books,25.50,Canada
+2,Bob,Electronics,199.99,USA
+3,Charlie,Books,15.00,Canada
+4,Diana,Clothing,45.00,USA
+5,Edward,Books,32.25,Canada
+6,Frank,Electronics,299.99,USA
+7,Gina,Clothing,60.00,Canada
+8,Hector,Books,22.75,Mexico
+9,Irene,Electronics,149.99,Canada
+10,John,Clothing,80.00,USA
